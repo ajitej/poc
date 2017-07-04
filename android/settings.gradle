@@ -1,0 +1,3 @@
+rootProject.name = 'zoylo_poc'
+
+include ':app'
